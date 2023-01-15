@@ -189,6 +189,7 @@ margin-bottom: 30px;
 }
 .feature-here{
     padding: 30px;
+    box-shadow: 10px 10px 10px whitesmoke;
 }
 .feature-title{
     font-weight: 600;

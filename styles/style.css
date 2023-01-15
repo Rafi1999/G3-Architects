@@ -107,7 +107,7 @@ margin-right: auto;
 /* quick list style */
 .quick-list{
     display: flex;
-    gap: 73px;
+    gap: 50px;
     margin-top: 85px;
 }
 .quick-images{
@@ -115,7 +115,7 @@ margin-right: auto;
     margin-top: 85px;
     display: grid;
     grid-template-columns: repeat(2,1fr);
-    gap: 24px;
+    gap: 15px;
 }
 .quick-info{
     margin-right: 240px;
@@ -131,8 +131,8 @@ color: #131313;
 
 }
 .quick-desc{
-    margin-top: -10px;
-    width: 537px;
+    margin-top: 10px;
+    width: 450px;
     height: 78px;
     font-weight: 400;
 font-size: 16px;
@@ -144,7 +144,7 @@ color: #727272;
 /* feature style */
 .features-contain{
     display: flex;
-    gap: 60px;
+    gap: 55px;
     margin-top: 130px;
     justify-content: center;
     
@@ -201,9 +201,9 @@ color: #727272;
 }
 .features-contain .btn-primary{
     width: 300px;
-    height: 200px;
+    height: 150px;
     margin-left: -50px;
-    margin-top: 840px;
+    margin-top: 880px;
 }
 /* facts styles */
 .facts{
@@ -228,7 +228,7 @@ height: 52px;
     display: flex;
     justify-content: center;
     text-align: center;
-    gap: 70px;
+    gap: 60px;
     margin-left: 245px;
     margin-right: 245px;
 }
@@ -275,7 +275,7 @@ color: #727272;
     margin-top: 50px;
     display: flex;
     justify-content: center;
-    gap: 154px;
+    gap: 100px;
 }
 .sponsors-img{
     filter: grayscale(100%);

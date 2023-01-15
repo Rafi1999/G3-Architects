@@ -99,6 +99,7 @@ color: #FFFFFF;
     margin-top: 50px;
     width: 1440px;
 height: 700px;
+
 margin-bottom: 45px;
 margin-left: auto;
 margin-right: auto;
@@ -238,9 +239,13 @@ border-radius: 8px;
 width: 241.83px;
 height: 225.83px;
 padding-top: 45px;
-
 }
-
+.achieve-info:hover{
+    background-color: rgb(204, 135, 44);
+    rotate: 30deg;
+    height: 200px;
+    width: 200px;
+}
 .achieve-no{
     font-weight: 600;
 font-size: 45px;
